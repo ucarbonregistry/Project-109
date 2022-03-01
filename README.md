@@ -1,6 +1,6 @@
 METADATA ALTERNATE FOR BLOCKCHAIN
 
-UNIVERSAL CARBON REGISTRY # Project-109 wwww.ucarbonregistry.io
+UNIVERSAL CARBON REGISTRY # Project-109 www.ucarbonregistry.io
 
 2.0 MW Bundled Solar Power Project by Suncity Sheets Private Limited
 This is a bundled project activity of capacity 2 MWdc which is grid connected solar PV power
